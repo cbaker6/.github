@@ -1,5 +1,5 @@
-# Parse Community Vulnerability Disclosure Program
-If you believe you have found a security vulnerability on one of parse-community maintained packages,
+# Network Reconnaissance Lab Vulnerability Disclosure Program
+If you believe you have found a security vulnerability on one of `netreconlab` maintained packages,
 we encourage you to let us know right away. 
 We will investigate all legitimate reports and do our best to quickly fix the problem. 
 Before making a report, please review this page to understand our disclosure policy and how to communicate with us.
@@ -16,4 +16,4 @@ We ask that:
 
 # Communicating with us
 
-All vulnerabilities should be privately reported to us by going to [https://report.parseplatform.org](https://report.parseplatform.org). Alternatively, you can send an email to [security&#64;parseplatform&#46;org](mailto:security&#64;parseplatform&#46;org).
+All vulnerabilities should be privately reported to us by sending an email to [baker&#64;cs&#46;uky&#46;edu](mailto:baker&#64;cs&#46;uky&#46;edu).
